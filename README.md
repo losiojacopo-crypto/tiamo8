@@ -1,12 +1,9 @@
-# tiamo8
 <!doctype html>
 <html lang="it">
 <head>
   <meta charset="utf-8">
   <title>Romantic Page</title>
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Great+Vibes&display=swap');
-
     body {
       margin: 0;
       height: 100vh;
